@@ -1,0 +1,28 @@
+{
+  "playlists": [
+    {
+      "name": "Workout",
+      "cover": "data/nik.png",
+      "songs": [
+        { "title": "Song 1", "file": "songs/chill/song1.mp3" },
+        { "title": "Song 2", "file": "songs/chill/song2.mp3" }
+      ]
+    },
+    {
+      "name": "Workout Energy",
+      "cover": "data/nik.png",
+      "songs": [
+        { "title": "Song A", "file": "songs/workout/song1.mp3" },
+        { "title": "Song B", "file": "songs/workout/song2.mp3" }
+      ]
+    },
+    {
+      "name": "Classic Hits",
+      "cover": "data/nik.png",
+      "songs": [
+        { "title": "Track X", "file": "songs/classic/songX.mp3" },
+        { "title": "Track Y", "file": "songs/classic/songY.mp3" }
+      ]
+    }
+  ]
+}
