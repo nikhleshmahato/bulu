@@ -2,7 +2,7 @@
   "playlists": [
     {
       "name": "Workout",
-      "cover": "data/nik.png",
+      "cover": "data/nik.jpeg",
       "songs": [
         { "title": "Song 1", "file": "songs/chill/song1.mp3" },
         { "title": "Song 2", "file": "songs/chill/song2.mp3" }
